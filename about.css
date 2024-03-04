@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navigacia{
+    background-color: #fff;
+    width: 100%;
+    height: 80px;
+    display: block;
+    
+}
+
+
+ul{
+    list-style-type: none;
+  overflow: hidden;
+  align-items: end;
+  padding: 0 60px;
+}
+
+li{
+    float: right;
+    display: block;
+    padding: 15px 5px ;
+    margin-right: 70px;
+}
+
+li a{
+    display: block;
+  color: #00446A;
+  align-items: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-style: normal;
+  font-family: inter;
+  font-weight: 500;
+
+}
+
+.logo1{
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+.wwr1{
+    width: 100%;
+    height: 700px;
+    display: grid;
+    column-gap: 20px;
+  grid-template-columns: auto 807.5px;
+  padding-top: 60px;
+  padding-left: 250px;
+  
+
+}
+
+.gg2{
+    width: 500px;
+    height: 600px;
+    text-align: start;
+    
+    
+    
+
+    
+}
+
+.hst1{
+    width: 600px;
+    height: 40px;
+    margin-left: -60px;
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.hst2{
+    width: 600px;
+    height: 40px;
+    margin-left: -60px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    color: #00446A;
+
+}
+
+.pl{
+    color: orangered;
+    font-weight: 900;
+}
+
+.read33{
+ width: 125px;
+ height: 35px;
+ background-color: #00446A;
+ color: white;
+ border-radius: 10px;
+ border: 1px solid #00446A;
+ margin-top: 40px;
+ margin-left: 160px;
+cursor: pointer;
+
+}
+
+
+
+.prc2{
+    width: 100%;
+    height: 900px;
+    
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: auto auto auto;
+    padding: 5px;
+    justify-content: space-evenly;
+      
+}
+
+
+.plans00{
+    width: 400px;
+    height: 600px;
+    background-color: transparent;
+    border: 2px solid grey;
+    
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 40px;
+
+}
+
+.pkp0{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 2px solid orangered;
+    color: orangered;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+    cursor: pointer;
+}
+
+
+
+.bolo{
+    width: 100%;
+    height: 400px;
+    display: grid;
+    column-gap: 30px;
+    grid-template-columns: 800px auto auto auto auto;
+    padding: 20px;
+    justify-content: space-evenly;
+
+}
+
+.ft22{
+    width: 800px;
+    height: 400px;
+    
+}
+
+.ft23{ 
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+
+
+
+}
+
+.lg0{
+    margin-top: 100px;
+    margin-left: 150px;
+}
